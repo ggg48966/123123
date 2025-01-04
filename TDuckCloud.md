@@ -1,6 +1,7 @@
 
 Currently, only style is processed in the query, and the color field is not processed, so there is an SQL injection vulnerability.
 ![](https://github.com/ggg48966/123123/blob/main/1735979423849.jpg)
+The code with vulnerabilities is located in QueryProThemeRequest.java and FormThemeController.java
 ![](https://github.com/ggg48966/123123/blob/main/1735979449582.jpg)
 ![](https://github.com/ggg48966/123123/blob/main/1735979543493.jpg)
 
